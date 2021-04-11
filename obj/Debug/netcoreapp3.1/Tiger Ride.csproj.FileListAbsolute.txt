@@ -1,0 +1,45 @@
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\Tiger Ride.exe
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\Tiger Ride.deps.json
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\Tiger Ride.runtimeconfig.json
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\Tiger Ride.runtimeconfig.dev.json
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\Tiger Ride.dll
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\Tiger Ride.pdb
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\Tiger Ride.Views.dll
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\bin\Debug\netcoreapp3.1\Tiger Ride.Views.pdb
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.csprojAssemblyReference.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.AssemblyInfoInputs.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.AssemblyInfo.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.csproj.CoreCompileInputs.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.RazorAssemblyInfo.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.RazorAssemblyInfo.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\staticwebassets\Tiger Ride.StaticWebAssets.Manifest.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\staticwebassets\Tiger Ride.StaticWebAssets.xml
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\scopedcss\bundle\Tiger Ride.styles.css
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.TagHelpers.input.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.TagHelpers.output.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.RazorCoreGenerate.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Driver home.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Feedback.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Log in page.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Rider home.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Sign up page.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.RazorTargetAssemblyInfo.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.RazorTargetAssemblyInfo.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.Views.pdb
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.dll
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.pdb
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.genruntimeconfig.cache
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Tiger Ride.csproj.CopyComplete
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Index1.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Index.cshtml.g.cs
+C:\Users\deepl\Google Drive\3rd sem 2021\Mis project\Tiger Ride\obj\Debug\netcoreapp3.1\Razor\Pages\Index2.cshtml.g.cs
